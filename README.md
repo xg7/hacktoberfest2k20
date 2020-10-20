@@ -6,7 +6,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
-- 
+- [Boam Idiotic](https://github.com/boamidiotic)
 
 ## How to contribute
 
