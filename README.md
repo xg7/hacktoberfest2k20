@@ -22,3 +22,4 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## Read more at
 
 [https://www.dataschool.io/how-to-contribute-on-github](https://www.dataschool.io/how-to-contribute-on-github/)
+[https://gist.github.com/MarcDiethelm/7303312]
