@@ -1,7 +1,8 @@
 <img align="center" height="500" src="https://github.com/xg7/hacktoberfest2k20/blob/master/assets/hacktoberfest2k20.png"/>
 
 
-# Hacktoberfest2k20!
+# Hacktoberfest2k21!
+
 
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
