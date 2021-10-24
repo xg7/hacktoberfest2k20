@@ -18,6 +18,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - Add your name in readme.md
 - Push
 - Pull request
+- goal minimum 4 apporved request
+- get swag t-shirt
 
 ## Read more at
 
